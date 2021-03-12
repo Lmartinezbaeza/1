@@ -1,5 +1,8 @@
 ---
 applications:
-- nombre:  AyA
-memory:  64(I)
-buildpack:  https://github.com/cloudfoundry/staticfile-buildpack.git
+
+-name: AIyA
+
+memory: 64MB
+
+buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
